@@ -24,7 +24,6 @@ class SendEmailNode:
     def INPUT_TYPES(cls):
         return {
             "required": {
-                # ===== 广告开关（无实际作用，仅用于展示） =====
                 "公众号：程序员野区": ("BOOLEAN", {
                     "default": True,
                     "tooltip": "如有遇到使用上的问题，可以前往公众号留言。"
@@ -186,5 +185,5 @@ NODE_CLASS_MAPPINGS = {
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "SendEmailNode": "cyc email/邮件发送 (SMTP) 🧧公众号:程序员野区",
+    "SendEmailNode": "cyc email/邮件发送 (SMTP) ",
 }
