@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "comfyui_cyc_email"
-version = "0.0.1"
+version = "0.0.2"
 description = "Custom node for sending emails via SMTP"
 authors = [
   {name = "", email = "532777032@qq.com"}
