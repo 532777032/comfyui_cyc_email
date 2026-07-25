@@ -3,6 +3,7 @@
 Custom node for sending emails via SMTP
 
 **不要走第三方代理或者 VPN！**
+[comfyui-cyc-email使用教程](https://mp.weixin.qq.com/s/__TIR-hIucVeC151BdPzfA)
 
 更多 ComfyUI 教程 → [comfyui教程](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI1NjAxODkzMg==&action=getalbum&album_id=4612468398512635907#wechat_redirect)
 
